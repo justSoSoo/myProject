@@ -23,6 +23,10 @@
     [self.view addSubview:btn];
     btn.frame = CGRectMake(100, 100, 200, 30);
     
+    
+    
+    //随便写点什么
+    
 }
 
 
